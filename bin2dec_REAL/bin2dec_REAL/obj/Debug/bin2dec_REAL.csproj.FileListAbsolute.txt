@@ -1,0 +1,7 @@
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\bin\Debug\bin2dec_REAL.exe.config
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\bin\Debug\bin2dec_REAL.exe
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\bin\Debug\bin2dec_REAL.pdb
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\obj\Debug\bin2dec_REAL.csproj.AssemblyReference.cache
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\obj\Debug\bin2dec_REAL.csproj.CoreCompileInputs.cache
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\obj\Debug\bin2dec_REAL.exe
+C:\Users\JoeHa\source\repos\bin2dec_REAL\bin2dec_REAL\obj\Debug\bin2dec_REAL.pdb
